@@ -1,10 +1,10 @@
-package com.example.training2024;
+package com.example.hostmonitor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Training2024ApplicationTests {
+class HostMonitorApplicationTests {
 
 	@Test
 	void contextLoads() {
